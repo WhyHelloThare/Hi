@@ -1,5 +1,5 @@
-// Kevin, Marc, Heavenel, Daniel, Issack
-// Group 15 L01
+
+// Group 15
 
 import java.util.Random;
 import java.util.Scanner;
